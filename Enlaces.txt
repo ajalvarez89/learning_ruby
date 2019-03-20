@@ -1,0 +1,101 @@
+Platzi on Twitter
+https://twitter.com/platzi/status/707284506718253058
+
+https://rvm.io/
+
+Homebrew — The missing package manager for OS X
+http://brew.sh/
+
+Velocity - The Documentation and Docset Viewer for Windows
+http://velocity.silverlakesoftware.com/
+
+Dash is an API Documentation Browser and Code Snippet Manager. Dash searches offline documentation of 150+ APIs and stores snippets of code. You can also generate your own documentation sets.
+https://kapeli.com/dash
+
+Installing Ruby
+https://www.ruby-lang.org/en/documentation/installation/#ruby-install
+
+Downloads
+http://rubyinstaller.org/downloads/
+
+RubyInstaller for Windows
+http://rubyinstaller.org/
+
+Learn the basic building blocks of the Ruby programming language, all in the browser.
+http://tryruby.org/levels/1/challenges/0
+
+-------
+
+Ruby operator precedence table
+https://gist.github.com/maggit/93ac444405a26d944530
+
+Class : Bignum - Ruby 2.3.0 
+http://ruby-doc.org/core-2.3.0/Bignum.html
+
+Class : Fixnum - Ruby 2.3.0 
+http://ruby-doc.org/core-2.3.0/Fixnum.html
+
+Class : NameError - Ruby 2.3.0 
+http://ruby-doc.org/core-2.3.0/NameError.html
+
+File: keywords.rdoc [Ruby 2.3.0]
+http://ruby-doc.org/core-2.3.0/doc/keywords_rdoc.html
+
+Descarga Ruby
+https://www.ruby-lang.org/es/downloads/
+
+Downloads
+http://rubyinstaller.org/downloads/
+
+------
+
+Detecta Palindromos
+https://gist.github.com/maggit/370beaf3694bbf1de2ff
+
+bbatsov/ruby-style-guide
+https://github.com/bbatsov/ruby-style-guide
+
+Class : Time - Ruby 2.3.0 
+http://ruby-doc.org/stdlib-2.3.0/libdoc/time/rdoc/Time.html
+
+------
+
+RubyGems.org | your community gem host
+https://rubygems.org/
+
+JRuby is a high performance, stable, fully threaded Java implementation of the Ruby programming language.
+http://jruby.org/
+
+Nancy by guilleiguaran
+http://guilleiguaran.github.io/nancy/
+
+NYNY - a (ridiculously) small and powerful web framework.
+http://alisnic.github.io/nyny/
+
+Ramaze is a very simple and straight-forward web-framework.
+http://ramaze.net/
+
+Padrino - The Elegant Ruby Web Framework
+http://padrinorb.com/
+
+Sinatra
+http://www.sinatrarb.com/
+
+A website dedicated to the fascinating world of mathematics and programming
+https://projecteuler.net/index.php?section=problems
+
+Ruby Quiz
+http://rubyquiz.com/
+
+dogrocker/oh-my-zsh-powerline-cute-theme
+https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme
+
+Suma los digitos!
+https://gist.github.com/maggit/b355d4e7216da56f1de7
+
+------
+
+sferik/twitter
+https://github.com/sferik/twitter
+
+------
