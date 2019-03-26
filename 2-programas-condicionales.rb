@@ -1,3 +1,4 @@
+#OPERADORES LOGICOS
 
 edad = 12
 mayor_de_edad = 18
@@ -12,4 +13,6 @@ puts "mayor de edad" == "mayor de EDAD"
 
 puts "joven" != "joveN"
 
+puts "hola".eql?("hola")
 
+puts "hola".equal?("hola") #Valida objet_id

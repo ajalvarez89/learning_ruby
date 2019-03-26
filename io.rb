@@ -6,5 +6,5 @@ name = gets.chomp
 puts "Hola #{name}"
 
 
-
+  
 puts "Su nombre tiene #{name.length} letras"

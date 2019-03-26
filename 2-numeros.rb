@@ -21,7 +21,7 @@ puts 8.zero?
 puts 8.odd? #impar
 
 puts 8.even? #par
-
+    
 puts 8.real?
 
 puts 8.class.superclass
