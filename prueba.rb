@@ -1,5 +1,5 @@
 class Persona
-	attr_accessor :nombre :apellido :edad
+	attr_accessor :nombre,:apellido, :edad
 
 	def saludo
 		puts "Hola mi nombre es: #{nombre}"
